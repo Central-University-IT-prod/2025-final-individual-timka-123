@@ -1,0 +1,1 @@
+from .yagpt import YaGpt
